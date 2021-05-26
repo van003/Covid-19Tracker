@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-
+# Your not Allowed to Copy or Edit this software without permission
 
 ## Introduction
 This is a code repository for the corresponding video tutorial. 
@@ -12,4 +12,6 @@ By the end of this video, you will have a strong understanding of React's workfl
 API used: https://covid19.mathdro.id/api
 
 Setup:
-- run ```npm i && npm start```
+run `yarn install` to install dependancies
+
+run `npm start` to start Covid-19 Tracker App
